@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey! 👋 I'm Shyamal Bhatt</h1>
 <h3 align="center">A Professional Data Analyst and Engineer</h3>
 
