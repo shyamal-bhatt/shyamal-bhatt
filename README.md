@@ -1,13 +1,15 @@
 <h1 align="center">Hey! 👋 I'm Shyamal Bhatt</h1>
-<h3 align="center">A Professional Data Analyst and Engineer</h3>
+<h3 align="center"> Data Analyst and ML Engineer</h3>
 
 ## I'm Shyamal and welcome to my GitHub profile!
 
-- 🔭 I’m currently working on **Data Analytics and Engineering, Python, Machine Learning, Neural Networks & Statistics**
+- ⭐ What I do for living **Chasing opportunity to work as a Data Analyst or an ML Engineer**
+
+- 🔭 I’m currently working on **Improving on MLOps and deploying LLMs/SLMs on WebApps**
 
 - 🌱 I’m constantly improving my **domain knowledge, thinking analytically to provide valuable insight and fabricate the story**
 
-- 💬 Ask me about **Python, SQL and Power BI**
+- 💬 Ask me about **Data Analytics in Power BI and Machine Learning, Deep Learning, Neural Networks & Statistics**
 
 - ⚡ Ask me about **Core concepts of Machine Learning Algorithms and Statistics**
 
@@ -18,13 +20,11 @@
 ##
 
 ### 🧮 Skill Set:
+- 📊 Data Analytics, Visualization and Presentation
+- 📝 Machine Learning / Deep Learning / AI / Gen AI
 - 🐍 Python
 - ⌨️ SQL
-- 📈 Power BI and Tableau 
-- 📊 Data Analytics, Visualization and Presentation
-- 📝 Machine Learning
-- 🔢 Excel
-- 🎯 R programming
+- 📈 Power BI 
 
 ##
 
