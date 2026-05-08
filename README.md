@@ -1,58 +1,53 @@
-<h1 align="center">Hey! 👋 I'm Shyamal Bhatt</h1>
-<h3 align="center">Data Scientist | AI & Machine Learning Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shyamal+Bhatt;Data+Scientist;AI+%2F+ML+Engineer" />
+</p>
 
 <p align="center">
-  <a href="mailto:bhattshyamal478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shyamal-bhatt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shyamal-bhatt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhattshyamal478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
-I am an **ML Engineer** focused on bridging the gap between sophisticated models and real-world utility. Currently, I specialize in **on-device AI**, **Graph Neural Networks**, and **LLM Orchestration**. I build local-first architectures to bring intelligence to the edge, reducing latency and enhancing privacy.
-
-- 🔭 **Focus:** MLOps, SLM deployment (Gemma/Llama), and agentic workflows.
-- 🌱 **Learning:** Advancing my expertise in real-time computer vision and RAG optimization.
-- 💬 **Ask me about:** On-device OCR, inventory automation, and the intersection of AI with retail operations.
+### 📊 My GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamal-bhatt&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🏆 Hackathon Projects
-*Building production-ready prototypes under pressure.*
+### 🏆 Featured Work
 
-- **[Video++](https://github.com/ryushen-tan/video-)** – A RAG-based education tool built for the AGI Ventures x Backboard Hackathon (**1st Place Winner**).
-- **[AptosAI Guard](https://github.com/nolandruid/aptos-ai-guard)** – AI-driven security implementation for the Consensus Global Hackathon.
-- **[StanCut](https://github.com/shyamal-bhatt/StanCut)** – Innovative media processing tool developed during local community build-fests.
+#### [VizCount](https://github.com/shyamal-bhatt/VizCount)
+*Real-time mobile inventory system using local-first OCR.*
+> [!TIP]
+> **Key Tech:** Gemma-2b, TensorFlow Lite, Python.
 
----
-
-### 🛠️ Side Projects
-*Exploring the limits of local AI and automation.*
-
-- **[VizCount](https://github.com/shyamal-bhatt/VizCount)** – A real-time mobile inventory system using local OCR and lightweight ML models for instant data capture.
-- **[Tapasi](https://github.com/shyamal-bhatt/Tapasi)** – Exploring unique interaction models and workflow automation.
+#### [Video++](https://github.com/ryushen-tan/video-)
+*RAG-based education tool for high-density information retrieval.*
+> **1st Place Winner** 🥇
 
 ---
 
-### 🎓 Academic & Capstone Projects
-*Data-driven insights and rigorous ML application.*
+### 🛠️ Skills & Experience
+<details>
+<summary><b>Show My Technical Stack 💻</b></summary>
+<br>
+- **AI/ML:** PyTorch, TensorFlow, Graph Neural Networks, LLMs (Gemma, Llama).
+- **Data:** SQL, Power BI, Statistical Modeling, NLP.
+- **Tools:** n8n, Backboard.io, Docker, Git.
+</details>
 
-- **[Tennis Central Capstone](https://github.com/shyamal-bhatt/Tennis-Central-Capstone-Project)** – Full-scale analytics and operational strategy project.
-- **[Churn Prediction & Retention Strategy](https://github.com/shyamal-bhatt/Customer-Churn-Prediction-Retention-Strategy-Using-SQL-Power-BI-Machine-Learning)** – End-to-end pipeline integrating SQL, Power BI, and ML to reduce customer attrition.
-- **[Credit Card Fraud Detection](https://github.com/shyamal-bhatt/End-to-End-Credit-Card-Fraud-Transaction-Detection-)** – Implementation of anomaly detection algorithms for financial security.
-- **[Canada Quality of Life Dashboard](https://github.com/shyamal-bhatt/Canada-Quality-Of-Life-Index-Power-BI-Dashboard)** – Comprehensive Power BI visualization of socioeconomic indicators.
-
----
-
-### 📜 Certifications
-- **NLP with Python for Machine Learning Essential Training** – LinkedIn Learning
-- **Building Recommender Systems with Machine Learning and AI** – LinkedIn Learning
-- **Master Microsoft BI** – LinkedIn Learning
-- **Data Structures and Algorithms** – LearnCodeOnline
+<details>
+<summary><b>Show My Certifications 📜</b></summary>
+<br>
+- NLP with Python for Machine Learning (LinkedIn Learning)
+- Building Recommender Systems (LinkedIn Learning)
+- Master Microsoft BI (LinkedIn Learning)
+</details>
 
 ---
 
 <p align="center">
-  <b>Let's build something intelligent.</b><br>
-  Find more of my work in my <a href="https://github.com/shyamal-bhatt?tab=repositories">repositories</a>.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </p>
