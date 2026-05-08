@@ -14,10 +14,13 @@
 ---
 
 ### 🚀 About Me
-I specialize in bridging the gap between statistical data science and scalable AI engineering. My work focuses on **on-device ML**, **Graph Neural Networks**, and **LLM orchestration** to solve real-world operational challenges.
+> [!IMPORTANT]
+> **Data Scientist and ML Engineer** specializing in bridging the gap between statistical inference and scalable AI engineering.
 
-- 🔬 **Focus:** Predictive modeling, RAG architectures, and local-first AI deployment.
-- 🌱 **Learning:** Optimizing SLMs (Small Language Models) for edge devices and real-time vision.
+I focus on **on-device ML**, **Graph Neural Networks**, and **LLM orchestration** to solve real-world operational challenges. 
+
+- 🔬 **Current Focus:** Predictive modeling, RAG architectures, and local-first AI deployment.
+- 🌱 **Learning:** Optimizing SLMs for edge devices and real-time vision.
 - 💬 **Ask me about:** Using AI to automate inventory or building persistent memory for AI agents.
 
 ---
@@ -25,42 +28,47 @@ I specialize in bridging the gap between statistical data science and scalable A
 ### 🏆 Hackathon Projects
 *Prototypes built for speed, scale, and impact.*
 
-- **[Video++](https://github.com/ryushen-tan/video-)** – A RAG-based education tool for high-density information retrieval (**1st Place Winner**).
-- **[AptosAI Guard](https://github.com/nolandruid/aptos-ai-guard)** – AI-driven security and anomaly detection for the Consensus Global Hackathon.
-- **[StanCut](https://github.com/shyamal-bhatt/StanCut)** – AI-assisted media optimization tool.
+- 🥇 **[Video++](https://github.com/ryushen-tan/video-)** – A RAG-based education tool; **1st Place Winner** at the AGI Ventures x Backboard Hackathon.
+- 🛡️ **[AptosAI Guard](https://github.com/nolandruid/aptos-ai-guard)** – AI-driven security and anomaly detection for the Consensus Global Hackathon.
+- ✂️ **[StanCut](https://github.com/shyamal-bhatt/StanCut)** – AI-assisted media optimization tool.
 
 ---
 
 ### 🛠️ Side Projects
 *Personal explorations in on-device AI and automation.*
 
-- **[VizCount](https://github.com/shyamal-bhatt/VizCount)** – A real-time mobile inventory system using local-first OCR and lightweight vision models.
-- **[Tapasi](https://github.com/shyamal-bhatt/Tapasi)** – Experimental ML workflows and agentic automation.
+- 📦 **[VizCount](https://github.com/shyamal-bhatt/VizCount)** – Real-time mobile inventory system using local-first OCR and lightweight vision models.
+- 🤖 **[Tapasi](https://github.com/shyamal-bhatt/Tapasi)** – Experimental ML workflows and agentic automation.
 
 ---
 
 ### 🎓 Academic & Capstone Projects
-*Applying rigorous data science to business and social problems.*
+*Rigorous data science applied to business and social problems.*
 
-- **[Tennis Central Capstone](https://github.com/shyamal-bhatt/Tennis-Central-Capstone-Project)** – Full-scale analytics and operational strategy project.
-- **[Customer Churn Prediction](https://github.com/shyamal-bhatt/Customer-Churn-Prediction-Retention-Strategy-Using-SQL-Power-BI-Machine-Learning)** – End-to-end pipeline using SQL, Power BI, and ML to drive retention.
-- **[Credit Card Fraud Detection](https://github.com/shyamal-bhatt/End-to-End-Credit-Card-Fraud-Transaction-Detection-)** – Real-time transaction anomaly detection system.
-- **[Canada Quality of Life Index](https://github.com/shyamal-bhatt/Canada-Quality-Of-Life-Index-Power-BI-Dashboard)** – Data-led storytelling and visualization of socioeconomic trends.
+- 🎾 **[Tennis Central Capstone](https://github.com/shyamal-bhatt/Tennis-Central-Capstone-Project)** – Comprehensive analytics and operational strategy project.
+- 📉 **[Customer Churn Prediction](https://github.com/shyamal-bhatt/Customer-Churn-Prediction-Retention-Strategy-Using-SQL-Power-BI-Machine-Learning)** – Pipeline using SQL, Power BI, and ML to drive retention strategy.
+- 💳 **[Credit Card Fraud Detection](https://github.com/shyamal-bhatt/End-to-End-Credit-Card-Fraud-Transaction-Detection-)** – Real-time transaction anomaly detection system.
+- 📊 **[Canada Quality of Life Index](https://github.com/shyamal-bhatt/Canada-Quality-Of-Life-Index-Power-BI-Dashboard)** – Multivariate analysis and storytelling using Power BI.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamal-bhatt&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamal-bhatt&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamal-bhatt&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamal-bhatt&theme=transparent&hide_border=true&stroke=0077B5&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" alt="GitHub Streak" height="150" />
 </p>
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Stack
 <details>
-<summary><b>Click to expand certifications 🎓</b></summary>
+<summary><b>View Technical Proficiency & Credentials 🛠️</b></summary>
+<br>
 
+**Languages & Tools:**
+`Python` `SQL` `PyTorch` `TensorFlow` `Power BI` `Docker` `n8n`
+
+**Certifications:**
 - **NLP with Python for Machine Learning Essential Training** – LinkedIn Learning
 - **Building Recommender Systems with Machine Learning and AI** – LinkedIn Learning
 - **Master Microsoft BI** – LinkedIn Learning
