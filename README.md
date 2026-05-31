@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Shyamal%20Bhatt&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Shyamal%20Bhatt&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
@@ -29,6 +29,8 @@ I focus on **on-device ML**, **Graph Neural Networks**, and **LLM orchestration*
 *Prototypes built for speed, scale, and impact.*
 
 - 🥇 **[Video++](https://github.com/ryushen-tan/video-)** – A RAG-based education tool; **1st Place Winner** at the AGI Ventures x Backboard Hackathon.
+- 🧠 **[SynthIQ](https://github.com/shyamal-bhatt/SynthIQ)** – Built at the Makers Lounge Hackathon.
+- 🔗 **[LinkMate](https://github.com/mrviduus/linkmate)** – Agentic AI project built at the TMLS Agentic AI Hackathon.
 - 🛡️ **[AptosAI Guard](https://github.com/nolandruid/aptos-ai-guard)** – AI-driven security and anomaly detection for the Consensus Global Hackathon.
 - ✂️ **[StanCut](https://github.com/shyamal-bhatt/StanCut)** – AI-assisted media optimization tool.
 
